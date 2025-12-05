@@ -1,4 +1,4 @@
-### notes-app-API-using-FastAPI
+### notes-app-using-FastAPI
 
 A simple and lightweight Notes CRUD API built using FastAPI.
 This app uses an in-memory dictionary to store notes and demonstrates the fundamentals of REST API development.
