@@ -14,7 +14,6 @@ The project showcases core CRUD (Create, Read, Update, Delete) operations with a
 ✔ View Notes<br>
 ✔ Update Notes<br>
 ✔ Delete Notes<br>
-✔ Auto Saving Functionality 
 
 ---
 
