@@ -15,7 +15,7 @@ const App = () => {
     const demoNotes = [
       { id: 1, title: "welcome to Tea's notes app", content: "hey there! i’m a notebook and i'm ready to hold all your brilliant ideas and secrets." },
       { id: 2, title: 'getting started', content: 'tap “New Note” to create your first masterpiece.\nedit it, decorate it, or just jot down your wildest idea.' },
-      { id: 3, title: 'features', content: '✨ create, edit, & delete notes\n🔍 search through your notes\n💾 auto-save functionality' }
+      { id: 3, title: 'features', content: '✨ create, edit, & delete notes\n🔍 search through your notes' }
     ];
     setNotes(demoNotes);
   }, []);
